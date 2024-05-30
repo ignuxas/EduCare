@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/static/css/main.8607eab8.css",
-    "main.js": "/static/js/main.c3dfcb93.js",
+    "main.css": "/static/css/main.68158f5e.css",
+    "main.js": "/static/js/main.a07f839a.js",
     "static/js/453.e6d1df9a.chunk.js": "/static/js/453.e6d1df9a.chunk.js",
-    "static/media/Ignas.jpg": "/static/media/Ignas.7e9e2e4dfeffc251d06e.jpg",
-    "static/media/Pijus.jpg": "/static/media/Pijus.e8d7760d43a954412181.jpg",
-    "static/media/Vitalija.jpg": "/static/media/Vitalija.edadacf85e3feb9c0d23.jpg",
-    "static/media/Matas.jpg": "/static/media/Matas.91874dc7df4396a90516.jpg",
-    "static/media/Jonas.jpg": "/static/media/Jonas.7655755005bdb32ee9f8.jpg",
-    "static/media/Dominykas.jpg": "/static/media/Dominykas.7bf07e0ac70e3e60126e.jpg",
+    "static/media/Ignas.jpg": "/static/media/Ignas.69fed690f11b5f7133b1.jpg",
+    "static/media/Matas.jpg": "/static/media/Matas.d73e7108058bcb76c328.jpg",
+    "static/media/Pijus.jpg": "/static/media/Pijus.96becbbc6cb69b01e164.jpg",
+    "static/media/Vitalija.jpg": "/static/media/Vitalija.b3eb4cd8fc6e7d996284.jpg",
+    "static/media/Jonas.jpg": "/static/media/Jonas.4992f5ef33d45d337997.jpg",
+    "static/media/Dominykas.jpg": "/static/media/Dominykas.a937e9d0af0c64ef2a78.jpg",
     "index.html": "/index.html",
-    "main.8607eab8.css.map": "/static/css/main.8607eab8.css.map",
-    "main.c3dfcb93.js.map": "/static/js/main.c3dfcb93.js.map",
+    "main.68158f5e.css.map": "/static/css/main.68158f5e.css.map",
+    "main.a07f839a.js.map": "/static/js/main.a07f839a.js.map",
     "453.e6d1df9a.chunk.js.map": "/static/js/453.e6d1df9a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8607eab8.css",
-    "static/js/main.c3dfcb93.js"
+    "static/css/main.68158f5e.css",
+    "static/js/main.a07f839a.js"
   ]
 }
